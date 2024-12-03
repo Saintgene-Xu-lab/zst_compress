@@ -1,3 +1,4 @@
 /target
+zst_batch_tui/target
 Cargo.lock
 .data
